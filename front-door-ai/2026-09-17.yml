@@ -1,0 +1,26 @@
+# Front Door AI Index — cakehealth — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: cakehealth
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: cakehealth.com
+  final_host: dualdiagnosis.org
+  ownership: own
+  owner: cakehealth
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 2
+  host_score: 2
+  density: 1.22
+  words: 1641
+  tiers:
+    agentic: 0
+    core: 0
+    model: 2
+  ambiguous: 1
+  top_terms:
+    Gemini: 2
+    smart: 1
